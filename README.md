@@ -7,7 +7,7 @@ Volt is a buildsystem (duh) which doesnt use targets. We will maybe add supports
 </br>
 Current supported languages:
 
-[ ] C
-[ ] C++
-[ ] Assembly
-[ ] Rust
+[ ] C </br>
+[ ] C++ </br>
+[ ] Assembly </br>
+[ ] Rust </br>

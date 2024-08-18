@@ -4,7 +4,6 @@
 #include <vector>
 #include <backends/util/keyValue.hpp>
 
-
 namespace volt::config {
 
 
