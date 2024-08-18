@@ -40,7 +40,6 @@ run: $(TARGET)
 	@./$(TARGET)
 
 clean:
-	@clear
 	@rm -rf $(OBJ_DIR) $(BIN_DIR)
 
 reset: clean all
