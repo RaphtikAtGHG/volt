@@ -1,6 +1,8 @@
 #include <iostream>
 
+#include <logger.hpp>
+
 int main(int argc, char** argv) {
-    std::cout << "Hello, world!" << std::endl;
+    volt::logger::info("Test Log\n");
     return 0;
 }

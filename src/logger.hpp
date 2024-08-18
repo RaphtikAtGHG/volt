@@ -5,7 +5,7 @@
 #include <sstream>
 #include <string>
 
-namespace Logger {
+namespace volt::logger {
 
     enum class Level {
         INFO,
@@ -65,4 +65,4 @@ namespace Logger {
         log(Level::DEBUG, message);
     }
 
-} // namespace Logger
+} // namespace volt::logger
